@@ -1,0 +1,2 @@
+# UnderstandingTypeScript
+Udemy講義の練習ファイル群
